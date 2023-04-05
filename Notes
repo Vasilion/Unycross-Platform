@@ -1,0 +1,1 @@
+nodemon from api root folder launches mongodb (mongodb service must be running)
